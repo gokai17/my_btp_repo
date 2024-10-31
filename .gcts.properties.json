@@ -1,0 +1,14 @@
+{
+  "name": "ykg",
+  "version": "1.0.0",
+  "description": "YKG",
+  "repositoryLayout": {
+    "formatVersion": 6,
+    "format": "json",
+    "metaInformation": ".gctsmetadata/",
+    "tableContent": "true",
+    "readableSource": "false",
+    "keepClient": "false",
+    "fingerprintSeckey": "/BYOG/FPRINT_RT/9A5792A33A5B1EDFA5ED89EEA5C7E18B_0"
+  }
+}
